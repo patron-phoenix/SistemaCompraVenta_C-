@@ -1,0 +1,9 @@
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\bin\Debug\CapaDatos.dll
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\bin\Debug\CapaEntidades.dll
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\bin\Debug\CapaEntidades.pdb
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\obj\Debug\CapaDatos.dll
+E:\proyectos c#\SistemaCompraVenta\CapaDatos\obj\Debug\CapaDatos.pdb

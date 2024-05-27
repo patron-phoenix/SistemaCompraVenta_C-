@@ -1,0 +1,6 @@
+E:\proyectos c#\SistemaCompraVenta\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\proyectos c#\SistemaCompraVenta\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\proyectos c#\SistemaCompraVenta\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+E:\proyectos c#\SistemaCompraVenta\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\proyectos c#\SistemaCompraVenta\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\proyectos c#\SistemaCompraVenta\CapaEntidades\obj\Debug\CapaEntidades.pdb
